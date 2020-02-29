@@ -1,3 +1,8 @@
+# Notes:
+
+The glyphs that come from GNU Unifont are licensed under the GNU General Public
+License, Version 2 or later, with GNU's font embedding exception.
+
 # SIL OPEN FONT LICENSE
 
 Version 1.1 - 26 February 2007
